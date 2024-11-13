@@ -1,7 +1,7 @@
 <h1>Jogo do número secreto</h1>
 
 <h2>🔖 Sobre</h2>
-<p>Este projeto é um <i>fork</i> do projeto <a src="https://github.com/alura-cursos/numero-secreto">Número Secreto</a> utilizado nos cursos de lógica de programação da Alura e foi aproveitado para a aplicação das lições do curso <a src="https://cursos.alura.com.br/course/git-github-dominando-controle-versao-codigo">Git e GitHub: dominando controle de versão de código </a>.</p>
+<p>Este projeto é um <i>fork</i> do projeto <a href="https://github.com/alura-cursos/numero-secreto">Número Secreto</a> utilizado nos cursos de lógica de programação da Alura e foi aproveitado para a aplicação das lições do curso <a href="https://cursos.alura.com.br/course/git-github-dominando-controle-versao-codigo">Git e GitHub: dominando controle de versão de código </a>.</p>
 
 ## 🚀 Tecnologias
 <div>
